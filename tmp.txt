@@ -1,0 +1,401 @@
+i: 96, c1: 0 m: 2
+i: 96, c1: 1 m: 2
+i: 97, c1: 0 m: 2
+i: 97, c1: 1 m: 2
+i: 98, c1: 0 m: 2
+i: 98, c1: 1 m: 2
+i: 99, c1: 0 m: 2
+i: 99, c1: 1 m: 2
+i: 0, c1: 0 m: 2
+i: 0, c1: 1 m: 2
+i: 1, c1: 0 m: 2
+i: 1, c1: 1 m: 2
+i: 2, c1: 0 m: 2
+i: 2, c1: 1 m: 2
+i: 3, c1: 0 m: 2
+i: 3, c1: 1 m: 2
+i: 4, c1: 0 m: 2
+i: 4, c1: 1 m: 2
+i: 5, c1: 0 m: 2
+i: 5, c1: 1 m: 2
+i: 6, c1: 0 m: 2
+i: 6, c1: 1 m: 2
+i: 7, c1: 0 m: 2
+i: 7, c1: 1 m: 2
+i: 8, c1: 0 m: 2
+i: 8, c1: 1 m: 2
+i: 9, c1: 0 m: 2
+i: 9, c1: 1 m: 2
+i: 10, c1: 0 m: 2
+i: 10, c1: 1 m: 2
+i: 11, c1: 0 m: 2
+i: 11, c1: 1 m: 2
+i: 12, c1: 0 m: 2
+i: 12, c1: 1 m: 2
+i: 13, c1: 0 m: 2
+i: 13, c1: 1 m: 2
+i: 14, c1: 0 m: 2
+i: 14, c1: 1 m: 2
+i: 15, c1: 0 m: 2
+i: 15, c1: 1 m: 2
+i: 48, c1: 0 m: 2
+i: 48, c1: 1 m: 2
+i: 49, c1: 0 m: 2
+i: 49, c1: 1 m: 2
+i: 50, c1: 0 m: 2
+i: 50, c1: 1 m: 2
+i: 51, c1: 0 m: 2
+i: 51, c1: 1 m: 2
+i: 52, c1: 0 m: 2
+i: 52, c1: 1 m: 2
+i: 53, c1: 0 m: 2
+i: 53, c1: 1 m: 2
+i: 54, c1: 0 m: 2
+i: 54, c1: 1 m: 2
+i: 55, c1: 0 m: 2
+i: 55, c1: 1 m: 2
+i: 56, c1: 0 m: 2
+i: 56, c1: 1 m: 2
+i: 57, c1: 0 m: 2
+i: 57, c1: 1 m: 2
+i: 58, c1: 0 m: 2
+i: 58, c1: 1 m: 2
+i: 59, c1: 0 m: 2
+i: 59, c1: 1 m: 2
+i: 60, c1: 0 m: 2
+i: 60, c1: 1 m: 2
+i: 61, c1: 0 m: 2
+i: 61, c1: 1 m: 2
+i: 62, c1: 0 m: 2
+i: 62, c1: 1 m: 2
+i: 63, c1: 0 m: 2
+i: 63, c1: 1 m: 2
+i: 64, c1: 0 m: 2
+i: 64, c1: 1 m: 2
+i: 65, c1: 0 m: 2
+i: 65, c1: 1 m: 2
+i: 66, c1: 0 m: 2
+i: 66, c1: 1 m: 2
+i: 67, c1: 0 m: 2
+i: 67, c1: 1 m: 2
+i: 68, c1: 0 m: 2
+i: 68, c1: 1 m: 2
+i: 69, c1: 0 m: 2
+i: 69, c1: 1 m: 2
+i: 70, c1: 0 m: 2
+i: 70, c1: 1 m: 2
+i: 71, c1: 0 m: 2
+i: 71, c1: 1 m: 2
+i: 72, c1: 0 m: 2
+i: 72, c1: 1 m: 2
+i: 73, c1: 0 m: 2
+i: 73, c1: 1 m: 2
+i: 74, c1: 0 m: 2
+i: 74, c1: 1 m: 2
+i: 75, c1: 0 m: 2
+i: 75, c1: 1 m: 2
+i: 76, c1: 0 m: 2
+i: 76, c1: 1 m: 2
+i: 77, c1: 0 m: 2
+i: 77, c1: 1 m: 2
+i: 78, c1: 0 m: 2
+i: 78, c1: 1 m: 2
+i: 79, c1: 0 m: 2
+i: 79, c1: 1 m: 2
+i: 16, c1: 0 m: 2
+i: 16, c1: 1 m: 2
+i: 17, c1: 0 m: 2
+i: 17, c1: 1 m: 2
+i: 18, c1: 0 m: 2
+i: 18, c1: 1 m: 2
+i: 19, c1: 0 m: 2
+i: 19, c1: 1 m: 2
+i: 20, c1: 0 m: 2
+i: 20, c1: 1 m: 2
+i: 21, c1: 0 m: 2
+i: 21, c1: 1 m: 2
+i: 22, c1: 0 m: 2
+i: 22, c1: 1 m: 2
+i: 23, c1: 0 m: 2
+i: 23, c1: 1 m: 2
+i: 24, c1: 0 m: 2
+i: 24, c1: 1 m: 2
+i: 25, c1: 0 m: 2
+i: 25, c1: 1 m: 2
+i: 26, c1: 0 m: 2
+i: 26, c1: 1 m: 2
+i: 27, c1: 0 m: 2
+i: 27, c1: 1 m: 2
+i: 28, c1: 0 m: 2
+i: 28, c1: 1 m: 2
+i: 29, c1: 0 m: 2
+i: 29, c1: 1 m: 2
+i: 30, c1: 0 m: 2
+i: 30, c1: 1 m: 2
+i: 31, c1: 0 m: 2
+i: 31, c1: 1 m: 2
+i: 80, c1: 0 m: 2
+i: 80, c1: 1 m: 2
+i: 81, c1: 0 m: 2
+i: 81, c1: 1 m: 2
+i: 82, c1: 0 m: 2
+i: 82, c1: 1 m: 2
+i: 83, c1: 0 m: 2
+i: 83, c1: 1 m: 2
+i: 84, c1: 0 m: 2
+i: 84, c1: 1 m: 2
+i: 85, c1: 0 m: 2
+i: 85, c1: 1 m: 2
+i: 86, c1: 0 m: 2
+i: 86, c1: 1 m: 2
+i: 87, c1: 0 m: 2
+i: 87, c1: 1 m: 2
+i: 88, c1: 0 m: 2
+i: 88, c1: 1 m: 2
+i: 89, c1: 0 m: 2
+i: 89, c1: 1 m: 2
+i: 90, c1: 0 m: 2
+i: 90, c1: 1 m: 2
+i: 91, c1: 0 m: 2
+i: 91, c1: 1 m: 2
+i: 92, c1: 0 m: 2
+i: 92, c1: 1 m: 2
+i: 93, c1: 0 m: 2
+i: 93, c1: 1 m: 2
+i: 94, c1: 0 m: 2
+i: 94, c1: 1 m: 2
+i: 95, c1: 0 m: 2
+i: 95, c1: 1 m: 2
+i: 32, c1: 0 m: 2
+i: 32, c1: 1 m: 2
+i: 33, c1: 0 m: 2
+i: 33, c1: 1 m: 2
+i: 34, c1: 0 m: 2
+i: 34, c1: 1 m: 2
+i: 35, c1: 0 m: 2
+i: 35, c1: 1 m: 2
+i: 36, c1: 0 m: 2
+i: 36, c1: 1 m: 2
+i: 37, c1: 0 m: 2
+i: 37, c1: 1 m: 2
+i: 38, c1: 0 m: 2
+i: 38, c1: 1 m: 2
+i: 39, c1: 0 m: 2
+i: 39, c1: 1 m: 2
+i: 40, c1: 0 m: 2
+i: 40, c1: 1 m: 2
+i: 41, c1: 0 m: 2
+i: 41, c1: 1 m: 2
+i: 42, c1: 0 m: 2
+i: 42, c1: 1 m: 2
+i: 43, c1: 0 m: 2
+i: 43, c1: 1 m: 2
+i: 44, c1: 0 m: 2
+i: 44, c1: 1 m: 2
+i: 45, c1: 0 m: 2
+i: 45, c1: 1 m: 2
+i: 46, c1: 0 m: 2
+i: 46, c1: 1 m: 2
+i: 47, c1: 0 m: 2
+i: 47, c1: 1 m: 2
+level 100:  99 cells; 100 orbits; 0 fixed; index 1/2
+(98 99)
+level 99:  98 cells; 99 orbits; 98 fixed; index 2
+(97 98)
+level 98:  97 cells; 98 orbits; 97 fixed; index 3
+(96 97)
+level 97:  96 cells; 97 orbits; 96 fixed; index 4
+(95 96)
+level 96:  95 cells; 96 orbits; 95 fixed; index 5
+(94 95)
+level 95:  94 cells; 95 orbits; 94 fixed; index 6
+(93 94)
+level 94:  93 cells; 94 orbits; 93 fixed; index 7
+(92 93)
+level 93:  92 cells; 93 orbits; 92 fixed; index 8
+(91 92)
+level 92:  91 cells; 92 orbits; 91 fixed; index 9
+(90 91)
+level 91:  90 cells; 91 orbits; 90 fixed; index 10
+(89 90)
+level 90:  89 cells; 90 orbits; 89 fixed; index 11
+(88 89)
+level 89:  88 cells; 89 orbits; 88 fixed; index 12
+(87 88)
+level 88:  87 cells; 88 orbits; 87 fixed; index 13
+(86 87)
+level 87:  86 cells; 87 orbits; 86 fixed; index 14
+(85 86)
+level 86:  85 cells; 86 orbits; 85 fixed; index 15
+(84 85)
+level 85:  84 cells; 85 orbits; 84 fixed; index 16
+(83 84)
+level 84:  83 cells; 84 orbits; 83 fixed; index 17
+(82 83)
+level 83:  82 cells; 83 orbits; 82 fixed; index 18
+(81 82)
+level 82:  81 cells; 82 orbits; 81 fixed; index 19
+(80 81)
+level 81:  80 cells; 81 orbits; 80 fixed; index 20
+(79 80)
+level 80:  79 cells; 80 orbits; 79 fixed; index 21
+(78 79)
+level 79:  78 cells; 79 orbits; 78 fixed; index 22
+(77 78)
+level 78:  77 cells; 78 orbits; 77 fixed; index 23
+(76 77)
+level 77:  76 cells; 77 orbits; 76 fixed; index 24
+(75 76)
+level 76:  75 cells; 76 orbits; 75 fixed; index 25
+(74 75)
+level 75:  74 cells; 75 orbits; 74 fixed; index 26
+(73 74)
+level 74:  73 cells; 74 orbits; 73 fixed; index 27
+(72 73)
+level 73:  72 cells; 73 orbits; 72 fixed; index 28
+(71 72)
+level 72:  71 cells; 72 orbits; 71 fixed; index 29
+(70 71)
+level 71:  70 cells; 71 orbits; 70 fixed; index 30
+(69 70)
+level 70:  69 cells; 70 orbits; 69 fixed; index 31
+(68 69)
+level 69:  68 cells; 69 orbits; 68 fixed; index 32
+(67 68)
+level 68:  67 cells; 68 orbits; 67 fixed; index 33
+(66 67)
+level 67:  66 cells; 67 orbits; 66 fixed; index 34
+(65 66)
+level 66:  65 cells; 66 orbits; 65 fixed; index 35
+(64 65)
+level 65:  64 cells; 65 orbits; 64 fixed; index 36
+(63 64)
+level 64:  63 cells; 64 orbits; 63 fixed; index 37
+(62 63)
+level 63:  62 cells; 63 orbits; 62 fixed; index 38
+(61 62)
+level 62:  61 cells; 62 orbits; 61 fixed; index 39
+(60 61)
+level 61:  60 cells; 61 orbits; 60 fixed; index 40
+(59 60)
+level 60:  59 cells; 60 orbits; 59 fixed; index 41
+(58 59)
+level 59:  58 cells; 59 orbits; 58 fixed; index 42
+(57 58)
+level 58:  57 cells; 58 orbits; 57 fixed; index 43
+(56 57)
+level 57:  56 cells; 57 orbits; 56 fixed; index 44
+(55 56)
+level 56:  55 cells; 56 orbits; 55 fixed; index 45
+(54 55)
+level 55:  54 cells; 55 orbits; 54 fixed; index 46
+(53 54)
+level 54:  53 cells; 54 orbits; 53 fixed; index 47
+(52 53)
+level 53:  52 cells; 53 orbits; 52 fixed; index 48
+(51 52)
+level 52:  51 cells; 52 orbits; 51 fixed; index 49
+(50 51)
+level 51:  50 cells; 51 orbits; 50 fixed; index 50
+(49 50)
+level 50:  49 cells; 50 orbits; 49 fixed; index 51
+(48 49)
+level 49:  48 cells; 49 orbits; 48 fixed; index 52
+(47 48)
+level 48:  47 cells; 48 orbits; 47 fixed; index 53
+(46 47)
+level 47:  46 cells; 47 orbits; 46 fixed; index 54
+(45 46)
+level 46:  45 cells; 46 orbits; 45 fixed; index 55
+(44 45)
+level 45:  44 cells; 45 orbits; 44 fixed; index 56
+(43 44)
+level 44:  43 cells; 44 orbits; 43 fixed; index 57
+(42 43)
+level 43:  42 cells; 43 orbits; 42 fixed; index 58
+(41 42)
+level 42:  41 cells; 42 orbits; 41 fixed; index 59
+(40 41)
+level 41:  40 cells; 41 orbits; 40 fixed; index 60
+(39 40)
+level 40:  39 cells; 40 orbits; 39 fixed; index 61
+(38 39)
+level 39:  38 cells; 39 orbits; 38 fixed; index 62
+(37 38)
+level 38:  37 cells; 38 orbits; 37 fixed; index 63
+(36 37)
+level 37:  36 cells; 37 orbits; 36 fixed; index 64
+(35 36)
+level 36:  35 cells; 36 orbits; 35 fixed; index 65
+(34 35)
+level 35:  34 cells; 35 orbits; 34 fixed; index 66
+(33 34)
+level 34:  33 cells; 34 orbits; 33 fixed; index 67
+(32 33)
+level 33:  32 cells; 33 orbits; 32 fixed; index 68
+(31 32)
+level 32:  31 cells; 32 orbits; 31 fixed; index 69
+(30 31)
+level 31:  30 cells; 31 orbits; 30 fixed; index 70
+(29 30)
+level 30:  29 cells; 30 orbits; 29 fixed; index 71
+(28 29)
+level 29:  28 cells; 29 orbits; 28 fixed; index 72
+(27 28)
+level 28:  27 cells; 28 orbits; 27 fixed; index 73
+(26 27)
+level 27:  26 cells; 27 orbits; 26 fixed; index 74
+(25 26)
+level 26:  25 cells; 26 orbits; 25 fixed; index 75
+(24 25)
+level 25:  24 cells; 25 orbits; 24 fixed; index 76
+(23 24)
+level 24:  23 cells; 24 orbits; 23 fixed; index 77
+(22 23)
+level 23:  22 cells; 23 orbits; 22 fixed; index 78
+(21 22)
+level 22:  21 cells; 22 orbits; 21 fixed; index 79
+(20 21)
+level 21:  20 cells; 21 orbits; 20 fixed; index 80
+(19 20)
+level 20:  19 cells; 20 orbits; 19 fixed; index 81
+(18 19)
+level 19:  18 cells; 19 orbits; 18 fixed; index 82
+(17 18)
+level 18:  17 cells; 18 orbits; 17 fixed; index 83
+(16 17)
+level 17:  16 cells; 17 orbits; 16 fixed; index 84
+(15 16)
+level 16:  15 cells; 16 orbits; 15 fixed; index 85
+(14 15)
+level 15:  14 cells; 15 orbits; 14 fixed; index 86
+(13 14)
+level 14:  13 cells; 14 orbits; 13 fixed; index 87
+(12 13)
+level 13:  12 cells; 13 orbits; 12 fixed; index 88
+(11 12)
+level 12:  11 cells; 12 orbits; 11 fixed; index 89
+(10 11)
+level 11:  10 cells; 11 orbits; 10 fixed; index 90
+(9 10)
+level 10:  9 cells; 10 orbits; 9 fixed; index 91
+(8 9)
+level 9:  8 cells; 9 orbits; 8 fixed; index 92
+(7 8)
+level 8:  7 cells; 8 orbits; 7 fixed; index 93
+(6 7)
+level 7:  6 cells; 7 orbits; 6 fixed; index 94
+(5 6)
+level 6:  5 cells; 6 orbits; 5 fixed; index 95
+(4 5)
+level 5:  4 cells; 5 orbits; 4 fixed; index 96
+(3 4)
+level 4:  3 cells; 4 orbits; 3 fixed; index 97
+(2 3)
+level 3:  2 cells; 3 orbits; 2 fixed; index 98
+(1 2)
+level 2:  1 cell; 2 orbits; 1 fixed; index 99
+(0 1)
+level 1:  0 cells; 1 orbit; 0 fixed; index 100
+1 orbit; grpsize=9.332621544394e157; 99 gens; 5150 nodes; maxlev=101
+cpu time = 1.43 seconds
